@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-CodePen-Clone/static/css/main.5720ea93.css",
+    "main.js": "/React-CodePen-Clone/static/js/main.45fd7788.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/React-CodePen-Clone/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/React-CodePen-Clone/index.html",
+    "main.5720ea93.css.map": "/React-CodePen-Clone/static/css/main.5720ea93.css.map",
+    "main.45fd7788.js.map": "/React-CodePen-Clone/static/js/main.45fd7788.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/React-CodePen-Clone/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5720ea93.css",
+    "static/js/main.45fd7788.js"
+  ]
+}
